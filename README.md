@@ -1,3 +1,12 @@
+> 📦 This project has been archived.
+
+This repository was part of my TripleTen Data Science Bootcamp. It has been moved into my central bootcamp project collection:  
+🔗 [Data projects (TripleTen)](https://github.com/littleteapot3/data-projects-tripleten)
+
+This version is now read-only and preserved for reference.
+
+----
+
 # Predicting Customer Churn at Beta Bank
 
 ## 📌 Project Overview
